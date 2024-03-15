@@ -1,2 +1,2 @@
 ﻿# Plant Tracker
-I haven't really had a chance to work on this project yet, but my plans are to make an Android app that helps me track the plants in my garden. I'm planning on using an SQLite database to store plant information, and potentially user account so users have the option of backing up data. This will be my first ever mobile app, so I'm looking forward to the learning experience. 
+I haven't really had a chance to work on this project yet, but my plans are to make an Android app that helps me track the plants in my garden. I'm planning on using an SQLite database to store plant information, and potentially adding user account so users have the option of backing up data. This will be my first ever mobile app, so I'm looking forward to the learning experience. 
